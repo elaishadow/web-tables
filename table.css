@@ -1,0 +1,26 @@
+table {
+    border-collapse: separate;
+    border: 20px groove rgb(126, 30, 30);
+ }
+ 
+ th, td {
+    border: 1px solid rgb(182, 9, 9);
+    padding: 24px;
+    text-align: center;
+    vertical-align: top;
+ }
+ 
+ table col#firstCol {
+    background-color: rgb(250, 153, 41);
+    width: 0.5px;
+ }
+ 
+ table col#hourCols {
+    width: 0.5 px;
+ }
+ 
+ table thead {
+    background-color: rgb(241, 35, 241);
+
+ }
+ 
